@@ -2,8 +2,8 @@ class hello()
 {
      public static void ()
      {
-
-         system.out.printIn{"":wq
-	 } ;
+     
+         system.out.printIn("");
      }
-}
+}     
+
