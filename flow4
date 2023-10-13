@@ -1,11 +1,11 @@
 
 
-         class hi()
+         class hi()   #from d2
 
 
          {
 
-          private static void main("HELLO")
+          private static void main("HELLO") #from d2 
 
 
 
@@ -14,6 +14,7 @@
          }
 
 
-         }
+         } #from d2
+
 
 
