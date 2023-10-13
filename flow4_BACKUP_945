@@ -1,0 +1,34 @@
+
+
+<<<<<<< HEAD
+         class hi()   #from d2
+
+
+         {
+
+          private static void main("HELLO") #from d2 
+=======
+         class hi()  #from d1
+
+
+         {
+   
+private static void ain("HELLO") #from d1
+>>>>>>> c375a9e1d30cf0c9eabc1c5169f410442f45d5db
+
+
+
+         {
+       
+         }   #from d1
+
+
+<<<<<<< HEAD
+         } #from d2
+
+
+=======
+         }
+:
+>>>>>>> c375a9e1d30cf0c9eabc1c5169f410442f45d5db
+
