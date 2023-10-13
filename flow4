@@ -5,7 +5,7 @@
 
          {
 
-          private static void main()
+          private static void main("HELLO")
 
 
 
