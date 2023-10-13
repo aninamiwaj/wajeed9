@@ -1,19 +1,19 @@
 
 
-         class hi()
+         class hi()  #from d1
 
 
          {
-
-          private static void main("HELLO")
+   
+private static void ain("HELLO") #from d1
 
 
 
          {
+       
+         }   #from d1
+
 
          }
-
-
-         }
-
+:
 
